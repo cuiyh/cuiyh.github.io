@@ -37,3 +37,16 @@ U2Boost  - Get more subscribers for your Youtube Channel
 U2Boost  for Youtube is a third-party application，sub4sub，sub for sub，Grow，Promote your YouTube channels.
 
 <https://play.google.com/store/apps/details?id=com.cuiyh.ytcsubboost>
+
+# Daily Stretch App
+## Daily stretching can reduce fat and help to lose weight in specific areas.
+
+Various benefits of stretching:
+
+1. relieve muscle soreness, relieve excessive tension muscle groups, promote blood circulation, waste metabolism, nutrient delivery;
+2. Prevent muscle fiber or tendon damage;
+3. Help increase the range and standard of training movements, improve training effect and muscle growth stimulation;
+4. Enhance nerve recruitment muscle efficiency and enhance exercise performance.
+5. Reduce fat and shape and slim, start stretching today.
+
+<https://play.google.com/store/apps/details?id=com.cuiyh.stretch>
