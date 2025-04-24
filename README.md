@@ -51,6 +51,7 @@ Various benefits of stretching:
 <https://play.google.com/store/apps/details?id=com.cuiyh.stretch>
 
 ## Privacy Policy
+<https://github.com/cuiyh/AppPrivacyPolicy/blob/master/README.md#privacy-policy>
 
 Cuiyh built the U2Boost app as a free application. This **SERVICE** is provided by Cuiyh at no cost and is intended for use as-is.
 
